@@ -14,6 +14,8 @@
     storageBucket: "arif-chat-2.appspot.com",
     messagingSenderId: "961153848363",
     appId: "1:961153848363:web:1136e3ea809f89f6cec66e"
+
+    dsfjhwegfhjwegh
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
